@@ -2,7 +2,7 @@
 
 Ce guide explique comment utiliser **Gramps** (logiciel libre de généalogie) pour **consulter**
 et **faire vivre** les données de l'arbre Tanguy, et comment publier les mises à jour sur le site
-https://ronant99-lgtm.github.io/arbre-tanguy.
+https://ronant99-lgtm.github.io/genealogie.
 
 > Les intitulés de menus ci-dessous correspondent à Gramps 5.x en français ; ils peuvent varier
 > légèrement selon la version. Les recherches de 2024 ont été saisies avec **Gramps 5.1.6**.
@@ -37,7 +37,7 @@ Pour ne rien perdre, il faut repartir de ce fichier :
 1. **Sauvegarder la base actuelle** : *Arbre familial → Faire une sauvegarde…*
    (crée un fichier `.gramps` complet ; le garder précieusement, par exemple sur le Drive).
 2. **Télécharger** `Tanguy.ged` depuis GitHub : ouvrir
-   https://github.com/ronant99-lgtm/arbre-tanguy/blob/main/gedcom/Tanguy.ged
+   https://github.com/ronant99-lgtm/genealogie/blob/main/gedcom/Tanguy.ged
    puis le bouton **⬇ (Download raw file)**.
 3. **Créer un nouvel arbre** : *Arbre familial → Gérer les arbres familiaux… → Nouveau*,
    le nommer par exemple « Tanguy 2026 », puis **Charger l'arbre**.
@@ -209,7 +209,7 @@ Deux fichiers sont mal datés et gagneraient à être renommés :
    - cocher l'export des notes.
 3. Nommer le fichier **`Tanguy.ged`**.
 4. Sur GitHub : ouvrir le dossier
-   https://github.com/ronant99-lgtm/arbre-tanguy/tree/main/gedcom →
+   https://github.com/ronant99-lgtm/genealogie/tree/main/gedcom →
    *Add file → Upload files* → déposer `Tanguy.ged` → **Commit changes**.
 5. Après 1 à 2 minutes, le site est à jour. Le résumé de l'onglet *Actions* indique le nombre
    de fiches générées et les éventuels points à vérifier.
