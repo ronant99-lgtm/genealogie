@@ -1,18 +1,19 @@
 # Arbre généalogique — Familles Tanguy et Beauchesne
 
-Arbres interactifs hébergés sur GitHub Pages :
+Arbres interactifs hébergés sur GitHub Pages (le dépôt s’appelait auparavant `arbre-tanguy` :
+les anciennes adresses en `…/arbre-tanguy/` ne fonctionnent plus) :
 
 - **Famille Tanguy** — ascendants de Jean Gustave Marie Tanguy :
-  https://ronant99-lgtm.github.io/arbre-tanguy/#tanguy
+  https://ronant99-lgtm.github.io/genealogie/#tanguy
 - **Famille Beauchesne** — ascendants de Françoise Beauchesne :
-  https://ronant99-lgtm.github.io/arbre-tanguy/#beauchesne
+  https://ronant99-lgtm.github.io/genealogie/#beauchesne
 
 ---
 
 ## 📁 Structure du dépôt
 
 ```
-arbre-tanguy/
+genealogie/
 ├── arbres.json                ← liste des arbres du site (titre, GEDCOM, personne de départ…)
 ├── gedcom/Tanguy.ged          ← SOURCE DE RÉFÉRENCE : export GEDCOM de Gramps
 ├── gedcom/Beauchesne.ged      ← extrait PUBLIC de la base Beauchesne (voir plus bas)
